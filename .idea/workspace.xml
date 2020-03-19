@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,6 +26,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZD3jqr2HWnIvkeNCHUZkaeyGyJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -67,7 +71,7 @@
       <recent name="C:\Daten\ProjectSkriptum\src\main\resources\META-INF" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CustomerDAOTest">
+  <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="13" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -150,8 +154,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CustomerDAOTest" />
         <item itemvalue="Application.App" />
+        <item itemvalue="JUnit.CustomerDAOTest" />
         <item itemvalue="JUnit.TestTest" />
         <item itemvalue="JUnit.CustomerDAOTest.testInsertCustomerTwice" />
         <item itemvalue="JUnit.CustomerDAOTest.testInsertCustomer" />
@@ -185,7 +189,7 @@
       <workItem from="1584527080961" duration="1839000" />
       <workItem from="1584604206754" duration="2001000" />
       <workItem from="1584613388149" duration="710000" />
-      <workItem from="1584614905491" duration="434000" />
+      <workItem from="1584614905491" duration="705000" />
     </task>
     <servers />
   </component>
@@ -226,26 +230,26 @@
     </state>
     <state x="740" y="336" key="FileChooserDialogImpl/0.0.1920.1160@0.0.1920.1160" timestamp="1584450660526" />
     <state x="740" y="322" width="424" height="511" key="FileChooserDialogImpl/0.28.1920.1016@0.28.1920.1016" timestamp="1584606418193" />
-    <state width="1874" height="266" key="GridCell.Tab.0.bottom" timestamp="1584614121153">
+    <state width="1874" height="266" key="GridCell.Tab.0.bottom" timestamp="1584615401703">
       <screen x="0" y="28" width="1920" height="1016" />
     </state>
     <state width="1877" height="407" key="GridCell.Tab.0.bottom/0.0.1920.1160@0.0.1920.1160" timestamp="1584532784787" />
-    <state width="1874" height="266" key="GridCell.Tab.0.bottom/0.28.1920.1016@0.28.1920.1016" timestamp="1584614121153" />
-    <state width="1874" height="266" key="GridCell.Tab.0.center" timestamp="1584614121153">
+    <state width="1874" height="266" key="GridCell.Tab.0.bottom/0.28.1920.1016@0.28.1920.1016" timestamp="1584615401703" />
+    <state width="1874" height="266" key="GridCell.Tab.0.center" timestamp="1584615401702">
       <screen x="0" y="28" width="1920" height="1016" />
     </state>
     <state width="1877" height="407" key="GridCell.Tab.0.center/0.0.1920.1160@0.0.1920.1160" timestamp="1584532784787" />
-    <state width="1874" height="266" key="GridCell.Tab.0.center/0.28.1920.1016@0.28.1920.1016" timestamp="1584614121153" />
-    <state width="1874" height="266" key="GridCell.Tab.0.left" timestamp="1584614121152">
+    <state width="1874" height="266" key="GridCell.Tab.0.center/0.28.1920.1016@0.28.1920.1016" timestamp="1584615401702" />
+    <state width="1874" height="266" key="GridCell.Tab.0.left" timestamp="1584615401702">
       <screen x="0" y="28" width="1920" height="1016" />
     </state>
     <state width="1877" height="407" key="GridCell.Tab.0.left/0.0.1920.1160@0.0.1920.1160" timestamp="1584532784787" />
-    <state width="1874" height="266" key="GridCell.Tab.0.left/0.28.1920.1016@0.28.1920.1016" timestamp="1584614121152" />
-    <state width="1874" height="266" key="GridCell.Tab.0.right" timestamp="1584614121153">
+    <state width="1874" height="266" key="GridCell.Tab.0.left/0.28.1920.1016@0.28.1920.1016" timestamp="1584615401702" />
+    <state width="1874" height="266" key="GridCell.Tab.0.right" timestamp="1584615401703">
       <screen x="0" y="28" width="1920" height="1016" />
     </state>
     <state width="1877" height="407" key="GridCell.Tab.0.right/0.0.1920.1160@0.0.1920.1160" timestamp="1584532784787" />
-    <state width="1874" height="266" key="GridCell.Tab.0.right/0.28.1920.1016@0.28.1920.1016" timestamp="1584614121153" />
+    <state width="1874" height="266" key="GridCell.Tab.0.right/0.28.1920.1016@0.28.1920.1016" timestamp="1584615401703" />
     <state x="490" y="236" key="Maven.ArtifactSearchDialog" timestamp="1584370267172">
       <screen x="0" y="0" width="1920" height="1160" />
     </state>
